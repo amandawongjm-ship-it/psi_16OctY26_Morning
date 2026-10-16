@@ -1,0 +1,6 @@
+{
+  "name": "SG AirWatch - Singapore PSI & Air Quality Alert Tracker",
+  "description": "Live Singapore PSI & PM2.5 tracker with interactive regional map, official NEA health advisories, and push notification alerts for unhealthy air quality.",
+  "requestFramePermissions": ["notifications"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
